@@ -2,5 +2,5 @@
 2:I[80095,["/buy-compass-etf-cn/_next/static/chunks/0dbhjjzl8qfwv.js","/buy-compass-etf-cn/_next/static/chunks/0unu42rnq977y.js"],"StrategyDashboard"]
 3:I[97367,["/buy-compass-etf-cn/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/buy-compass-etf-cn/_next/static/chunks/0unu42rnq977y.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6NN67stSugp64per-pEoE"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/buy-compass-etf-cn/_next/static/chunks/0unu42rnq977y.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LB7EtX7O41k30Z8IxWsQJ"}
 5:null
