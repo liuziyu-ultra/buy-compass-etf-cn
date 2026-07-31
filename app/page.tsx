@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { StrategyDashboard } from "./strategy-dashboard";
 
+const assetBase = process.env.GITHUB_PAGES === "true" ? "/buy-compass-etf-cn" : "";
+
 export const metadata: Metadata = {
   title: "买入罗盘｜新手 ETF 买入计划",
   description:
@@ -8,7 +10,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "买入罗盘｜今天该买多少，一眼看懂",
     description: "定投为主，回撤分档加仓。为长期 ETF 新手做的买入计划工具。",
-    images: ["/og.png"],
+    images: [`${assetBase}/og.png`],
   },
 };
 
