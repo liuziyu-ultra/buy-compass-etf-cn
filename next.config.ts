@@ -5,6 +5,7 @@ const isGitHubPages = process.env.GITHUB_PAGES === "true";
 const nextConfig: NextConfig = isGitHubPages
   ? {
       output: "export",
+      trailingSlash: true,
       basePath: "/buy-compass-etf-cn",
       assetPrefix: "/buy-compass-etf-cn",
       images: { unoptimized: true },
